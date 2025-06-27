@@ -7,3 +7,21 @@ Why is Requirement Analysis Important?
 Clarity and understanding: it helps in understanding what the stakeholders expect from the software reducing ambiguity.
 Scope definition: clearly defines the scope of the project, which helps in preventing scope creep.
 Basis for design and development: provides a solid foundation for designing and developing the system.
+Key Activities in Requirement Analysis.
+- Requirement Gathering: Interviews: Conducting interviews with stakeholders to gather detailed information about their needs and expectations.
+Surveys/Questionnaires: Distributing surveys to collect requirements from a larger audience.
+Workshops: Organizing workshops with stakeholders to discuss and gather requirements.
+Observation: Observing end-users in their working environment to understand their needs.
+Document Analysis: Reviewing existing documentation and systems to understand current functionalities and requirements.
+-Requirement Elicitation: Brainstorming: Conducting brainstorming sessions to generate ideas and gather requirements.
+Focus Groups: Holding focus group discussions with selected stakeholders to gather detailed requirements.
+Prototyping: Creating prototypes to help stakeholders visualize the system and refine their requirements.
+-Requirement Documentation: Requirement Specification Document: Creating a detailed document that lists all functional and non-functional requirements.
+User Stories: Writing user stories to describe functionalities from the user’s perspective.
+Use Cases: Creating use case diagrams to show interactions between users and the system.
+-Requirement Analysis and Modeling: Requirement Prioritization: Prioritizing requirements based on their importance and impact on the project.
+Feasibility Analysis: Assessing the feasibility of requirements in terms of technical, financial, and time constraints.
+Modeling: Creating models (e.g., data flow diagrams, entity-relationship diagrams) to visualize and analyze requirements.
+-Requirement Validation: Review and Approval: Reviewing the documented requirements with stakeholders to ensure accuracy and completeness.
+Acceptance Criteria: Defining clear acceptance criteria for each requirement to ensure they meet the expected standards.
+Traceability: Establishing traceability matrices to ensure all requirements are addressed during development and testing.

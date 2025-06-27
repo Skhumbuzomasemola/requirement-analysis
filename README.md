@@ -25,3 +25,9 @@ Modeling: Creating models (e.g., data flow diagrams, entity-relationship diagram
 -Requirement Validation: Review and Approval: Reviewing the documented requirements with stakeholders to ensure accuracy and completeness.
 Acceptance Criteria: Defining clear acceptance criteria for each requirement to ensure they meet the expected standards.
 Traceability: Establishing traceability matrices to ensure all requirements are addressed during development and testing.
+Types of Requirements
+Functional Requirements
+Search Properties: Users should be able to search for properties based on various criteria such as location, price, and availability.
+Booking System: Users should be able to book properties, view booking details, and manage their bookings.
+Non-functional Requirements
+Usability: The application should have an intuitive UI/UX, making it easy for users to navigate and perform tasks.

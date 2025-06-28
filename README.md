@@ -31,3 +31,9 @@ Search Properties: Users should be able to search for properties based on variou
 Booking System: Users should be able to book properties, view booking details, and manage their bookings.
 Non-functional Requirements
 Usability: The application should have an intuitive UI/UX, making it easy for users to navigate and perform tasks.
+Use Case Diagrams
+Use case diagrams show how different users (actors) interact with the system to achieve specific goals (use cases).
+Provide a clear visual representation of system functionalities.
+Help in identifying and organizing system requirements.
+Facilitate communication among stakeholders and development team.
+https://drive.google.com/file/d/13bPqfi0NB6oJ0fFaFGevX1F2ePZdj0kP/view?usp=sharing

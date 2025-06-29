@@ -31,39 +31,18 @@ Search Properties: Users should be able to search for properties based on variou
 Booking System: Users should be able to book properties, view booking details, and manage their bookings.
 Non-functional Requirements
 Usability: The application should have an intuitive UI/UX, making it easy for users to navigate and perform tasks.
-## Use Case Diagrams
+Use Case Diagrams
+Use Case Diagrams are a type of UML (Unified Modeling Language) diagram used during the Requirement Analysis phase of software development.
+ Benefit	and Explanation
+Clarifies System Scope	Defines what the system will and will not do.
+Improves Communication	Helps non-technical stakeholders understand how the system works.
+Captures User Expectations	Ensures user goals are clearly defined early in the process.
+Supports Validation of Features	Stakeholders can verify if the system includes all required use cases.
+Organizes Functional Requirements	Breaks down high-level functionality into smaller, manageable parts.
+Aids Development Planning	Helps development teams estimate work and plan implementation.
+Booking System Use Case Diagram
+![https://drive.google.com/file/d/1N00DF82a4Zra63EWRgbJ5Ays2o4wZ7an/view?usp=sharing](./alx-booking-uc.png)
 
-Use Case Diagrams are a fundamental tool in requirement analysis that visually represent the interactions between users (actors) and a system. They illustrate the system's functionality from an end-user perspective, showing who can use the system and what they can do with it.
-
-### Benefits of Use Case Diagrams
-- Provides clear visualization of system requirements from a user's perspective
-- Helps identify system actors and their interactions
-- Facilitates communication between stakeholders
-- Serves as a foundation for system design and testing
-- Identifies system boundaries and scope
-
-### Booking System Use Case Diagram
-
-Below is a use case diagram illustrating the key functionalities of our booking system:
-![alx-booking-uc drawio (1)](https://github.com/user-attachments/assets/acc5aadb-15e9-4e79-a4a8-0956b9f05abf)
-
-
-
-### Diagram Components Explained
-1. Actors:
-   - Customer: Primary user who interacts with the booking system
-   - Admin: System administrator who manages bookings and reports
-
-2. Use Cases:
-   - Search Rooms: Allows customers to find available rooms based on criteria
-   - Book Room: Enables customers to reserve selected rooms
-   - Cancel Booking: Permits cancellation of existing reservations
-   - Manage Bookings: Admin functionality to view and modify bookings
-   - Generate Reports: Admin feature to create booking statistics and revenue reports
-
-3. Relationships:
-   - Arrows show which actor can perform which use case
-   - Connections between use cases show functional dependencies
 
 
 

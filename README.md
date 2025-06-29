@@ -46,7 +46,8 @@ Use Case Diagrams are a fundamental tool in requirement analysis that visually r
 
 Below is a use case diagram illustrating the key functionalities of our booking system:
 
-![Booking System Use Case Diagram](alx-booking-uc.png "Use case diagram showing actors (Customer, Admin) interacting with booking system through various use cases including Search Rooms, Book Room, Cancel Booking, Manage Bookings, and Generate Reports")
+![![alx-booking-uc drawio (1)](https://github.com/user-attachments/assets/bc264a68-711d-4f9b-b630-d526c63cd494)
+](alx-booking-uc.png "Use case diagram showing actors (Customer, Admin) interacting with booking system through various use cases including Search Rooms, Book Room, Cancel Booking, Manage Bookings, and Generate Reports")
 
 ### Diagram Components Explained
 1. Actors:

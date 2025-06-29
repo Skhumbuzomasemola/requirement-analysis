@@ -50,7 +50,7 @@ Use Case Diagrams are part of the Unified Modeling Language (UML) used during th
 
 The following diagram shows key interactions within the booking system, including customers, admins, and the payment processor.
 
-![https://drive.google.com/file/d/1N00DF82a4Zra63EWRgbJ5Ays2o4wZ7an/view?usp=sharing](./alx-booking-uc.png)
+![![Image](https://github.com/user-attachments/assets/de0d23d3-72f7-455b-9521-d4ae924b7749)](./alx-booking-uc.png)
 
 
 

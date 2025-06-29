@@ -40,7 +40,9 @@ Requirement Validation: Ensures all user goals are addressed.
 System Understanding: Aids developers and designers in identifying required features.
 Booking System Use Case Diagram
 ![alx-booking-uc drawio (1)](https://github.com/user-attachments/assets/fdeabe08-6ae3-4a49-a0b8-089de41ae98b)
-
+cd path/to/requirement-analysis
+mv /path/to/downloaded/alx-booking-uc.png .
+git add README.md alx-booking-uc.png
 
 
 

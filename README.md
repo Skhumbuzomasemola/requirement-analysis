@@ -32,10 +32,15 @@ Booking System: Users should be able to book properties, view booking details, a
 Non-functional Requirements
 Usability: The application should have an intuitive UI/UX, making it easy for users to navigate and perform tasks.
 Use Case Diagrams
-Use case diagrams show how different users (actors) interact with the system to achieve specific goals (use cases).
-Provide a clear visual representation of system functionalities.
-Help in identifying and organizing system requirements.
-Facilitate communication among stakeholders and development team.
-![alx-booking-uc drawio](https://github.com/user-attachments/assets/76e3dfea-c9d3-4623-a50b-dfb2b2393d61)
+Use Case Diagrams are part of the Unified Modeling Language (UML) and are used in Requirement Analysis to capture the functional requirements of a system. They visually represent the interactions between users (called actors) and the system's use cases (the services or functions the system provides).
+Benefits:
+Clear Communication: Helps stakeholders understand what the system will do.
+Scope Definition: Defines system boundaries and user expectations.
+Requirement Validation: Ensures all user goals are addressed.
+System Understanding: Aids developers and designers in identifying required features.
+Booking System Use Case Diagram
+![alx-booking-uc drawio (1)](https://github.com/user-attachments/assets/fdeabe08-6ae3-4a49-a0b8-089de41ae98b)
+
+
 
 

@@ -51,6 +51,74 @@ Use Case Diagrams are part of the Unified Modeling Language (UML) used during th
 The following diagram shows key interactions within the booking system, including customers, admins, and the payment processor.
 
 ![![Image](https://github.com/user-attachments/assets/de0d23d3-72f7-455b-9521-d4ae924b7749)](./alx-booking-uc.png)
+Acceptance Criteria.
+Write about the importance of Acceptance Criteria in Requirement Analysis.
+1. Clarify Requirements
+Acceptance criteria remove ambiguity by providing clear, testable statements about what a system should do. This helps both stakeholders and developers avoid misunderstandings and ensures everyone shares the same vision.
+
+2. Guide Development
+They serve as a checklist for developers, guiding implementation and ensuring all required features are built to meet user needs. It helps developers stay focused and avoid scope creep.
+
+3. Support Testing and Validation
+Acceptance criteria are the foundation for test case creation. QA teams use them to validate that the software behaves as expected and meets business needs. If a requirement meets its acceptance criteria, it passes the quality check.
+
+4. Enable Agile Processes
+In Agile methodologies, well-defined acceptance criteria allow for better estimation, sprint planning, and tracking progress. They help determine when a user story is "done," supporting iterative development.
+
+5. Facilitate Communication
+By involving all stakeholders in defining acceptance criteria, it promotes better collaboration and communication between product owners, developers, testers, and clients.
+
+6. Reduce Rework
+Clear expectations reduce the chances of delivering incomplete or incorrect functionality, thus minimizing costly rework and delays later in the development cycle.
+Feature: Checkout Functionality
+Acceptance Criteria
+Successful Checkout Trigger
+
+Given that the booking status is “active,”
+
+When the user clicks the “Check Out” button,
+
+Then the system should update the booking status to “completed”.
+
+Final Bill Displayed
+
+Given that the user initiates checkout,
+
+When the checkout is processed,
+
+Then the system should generate and display a final bill that includes all charges (e.g., room/service fees, taxes, and any extras).
+
+Payment Verification
+
+Given that the user has an outstanding balance,
+
+When they attempt to check out,
+
+Then the system should verify that payment is complete before allowing the checkout to finalize.
+
+Confirmation Receipt
+
+Given a successful checkout,
+
+When the system confirms it,
+
+Then a checkout confirmation email should be sent to the user with booking details and a receipt.
+
+Prevent Early Checkout
+
+Given the user attempts to check out before the allowed time (e.g., before 10:00 AM checkout time),
+
+When the checkout button is clicked,
+
+Then the system should prompt the user with a warning or restriction message (or additional charge notification if applicable).
+
+Admin Notification
+
+Given a user completes checkout,
+
+When the status updates to “completed,”
+
+Then the admin panel should reflect this change and notify the assigned staff
 
 
 

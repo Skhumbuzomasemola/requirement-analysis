@@ -31,25 +31,26 @@ Search Properties: Users should be able to search for properties based on variou
 Booking System: Users should be able to book properties, view booking details, and manage their bookings.
 Non-functional Requirements
 Usability: The application should have an intuitive UI/UX, making it easy for users to navigate and perform tasks.
-Use Case Diagrams
-Use Case Diagrams are a type of UML (Unified Modeling Language) diagram used during the Requirement Analysis phase of software development.
- Benefit	and Explanation
-Clarifies System Scope	Defines what the system will and will not do.
-Improves Communication	Helps non-technical stakeholders understand how the system works.
-Captures User Expectations	Ensures user goals are clearly defined early in the process.
-Supports Validation of Features	Stakeholders can verify if the system includes all required use cases.
-Organizes Functional Requirements	Breaks down high-level functionality into smaller, manageable parts.
-Aids Development Planning	Helps development teams estimate work and plan implementation.
-Booking System Use Case Diagram
+## Use Case Diagrams
+
+Use Case Diagrams are part of the Unified Modeling Language (UML) used during the Requirement Analysis phase of software development. They visually represent how users (actors) interact with a system through specific functions (use cases).
+
+### 📌 What They Show:
+- **Actors**: Users or external systems that interact with the application
+- **Use Cases**: The operations or services provided by the system
+- **Relationships**: How actors are linked to each function
+
+### 🎯 Benefits of Use Case Diagrams
+- **Clear Communication**: Easy for both technical and non-technical stakeholders to understand
+- **Requirement Validation**: Ensures all user goals are represented
+- **Scope Definition**: Defines system boundaries and key functionalities
+- **Planning Support**: Guides developers and testers on what features to build and validate
+
+### 🧾 Booking System Use Case Diagram
+
+The following diagram shows key interactions within the booking system, including customers, admins, and the payment processor.
+
 ![https://drive.google.com/file/d/1N00DF82a4Zra63EWRgbJ5Ays2o4wZ7an/view?usp=sharing](./alx-booking-uc.png)
-from pathlib import Path
-
-# Define input and output paths
-input_path = Path("/mnt/data/A_UML_(Unified_Modeling_Language)_use_case_diagram.png")
-output_path = Path("/mnt/data/alx-booking-uc.png")
-
-# Copy the image with the new name
-shutil.copy(input_path, output_path)
 
 
 

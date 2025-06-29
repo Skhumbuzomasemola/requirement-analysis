@@ -42,6 +42,16 @@ Organizes Functional Requirements	Breaks down high-level functionality into smal
 Aids Development Planning	Helps development teams estimate work and plan implementation.
 Booking System Use Case Diagram
 ![https://drive.google.com/file/d/1N00DF82a4Zra63EWRgbJ5Ays2o4wZ7an/view?usp=sharing](./alx-booking-uc.png)
+from pathlib import Path
+
+# Define input and output paths
+input_path = Path("/mnt/data/A_UML_(Unified_Modeling_Language)_use_case_diagram.png")
+output_path = Path("/mnt/data/alx-booking-uc.png")
+
+# Copy the image with the new name
+shutil.copy(input_path, output_path)
+
+
 
 
 

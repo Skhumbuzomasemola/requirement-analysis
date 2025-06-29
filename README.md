@@ -36,5 +36,6 @@ Use case diagrams show how different users (actors) interact with the system to 
 Provide a clear visual representation of system functionalities.
 Help in identifying and organizing system requirements.
 Facilitate communication among stakeholders and development team.
-https://drive.google.com/file/d/1N00DF82a4Zra63EWRgbJ5Ays2o4wZ7an/view?usp=sharing
+![alx-booking-uc drawio](https://github.com/user-attachments/assets/76e3dfea-c9d3-4623-a50b-dfb2b2393d61)
+
 
